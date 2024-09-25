@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+How to reach me: ethanyountz@gmail.com
+I’m currently learning C
+I’m currently working on Sports Betting Algorithim
+
 <!--
 **ethan-yountz/ethan-yountz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
