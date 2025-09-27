@@ -2,7 +2,7 @@
 
 How to reach me: ethanyountz@gmail.com <br>
 I’m currently learning Linear Algebra, Probability, and Data Structures <br>
-I’m currently working on a Python Backtester <br>
+I’m currently working on a QK Calculator and Simulator <br>
 
 <!--
 **ethan-yountz/ethan-yountz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
